@@ -4,7 +4,7 @@
   "minSupportedVersion": "2.0.0",
   "releaseNotes": "⚠️ 10 kata kadar daha hafif ve daha hızlı.",
   "announcement": "",
-  "disabled": true,
+  "disabled": false,
   "disabledMessage": "Lisans süreniz dolmuştur. İletişim: ...",
-  "disabledVersions": ["2.0.1"]
+  "disabledVersions": ["2.0.0"]
 }
