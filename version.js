@@ -6,5 +6,5 @@
   "announcement": "",
   "disabled": false,
   "disabledMessage": "Lisans süreniz dolmuştur. İletişim: ...",
-  "disabledVersions": ["2.0.0"]
+  "disabledVersions": ["9.9.9"]
 }
