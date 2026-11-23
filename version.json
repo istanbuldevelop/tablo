@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.3",
   "updatePolicy": "optional",
   "minSupportedVersion": "2.0.1",
   "releaseNotes": "Anlık veri kayıt sistemi ile veri kaybının azaltılması amaçlanmıştır.",
